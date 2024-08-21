@@ -1,0 +1,15 @@
+{
+  "item.samplemod.small_tnt": "小型TNT",
+  "block.samplemod.large_tnt": "大型TNT",
+  "block.samplemod.travis_scott": "トラビススコット",
+  "item.samplemod.c_quiz": "C言語",
+  "item.samplemod.l_quiz": "LINUC",
+  "item.samplemod.s_quiz": "security",
+  "item.samplemod.l_level": "やさしい",
+  "item.samplemod.m_level": "ほどほど",
+  "item.samplemod.h_level": "難しい",
+  "item.samplemod.q_1": "(A)",
+  "item.samplemod.q_2": "(B)",
+  "item.samplemod.q_3": "(C)",
+  "item.samplemod.q_4": "(D)",
+}
